@@ -1,2 +1,6 @@
 # erg-ai
-Public repository to feature demonstration video of current progress on ErgAI web application (private project)..
+This is a public repository to feature demonstration videos of current progress on my ErgAI web application (private project). ErgAI is a front-end application using JavaScript (React), Redux, and the Web Bluetooth API to interface with a Concept 2 RowErg and heart rate monitor, using real-time data acquisition. The app currently features a dynamic rowing profile engine that ingests performance data and utilizes statistical modeling to determine optimal training zones and race performance potential for different physiological profiles (anaerobic, balanced, aerobic).
+
+Rowing Profile Engine Demonstration: [Video](https://drive.google.com/file/d/1e9hZTg3wXrBHJTpjnmVOZ81yNIo9EJyl/view?usp=drive_link)
+<br/>
+Bluetooth Data Parsing Demonstration: [Video](https://drive.google.com/file/d/1Fv2JsVlWzuinfV5HCyXVJf3T9U0s2gwI/view?usp=drive_link)
